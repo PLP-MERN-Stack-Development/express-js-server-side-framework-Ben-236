@@ -1,0 +1,15 @@
+{
+  "name": "express-js-server-side-framework-ben-236",
+  "version": "1.0.0",
+  "description": "This assignment focuses on building a RESTful API using Express.js, implementing proper routing, middleware, and error handling.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
